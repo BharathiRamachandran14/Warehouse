@@ -1,0 +1,7 @@
+namespace Warehouse
+{
+    class ShoppingTrip
+    {
+        
+    }
+}
